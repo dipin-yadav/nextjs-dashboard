@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-[My app can be found here](https://nextjs-dashboard-dipin-yadavs-projects.vercel.app/)
+[My app can be found here](https://nextjs-dashboard-ochre-theta-59.vercel.app/)
